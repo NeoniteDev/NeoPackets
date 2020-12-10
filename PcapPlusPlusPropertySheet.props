@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <PcapPlusPlusHome>E:\UDPLibs\pcapplusplus-20.08-windows-vs2019</PcapPlusPlusHome>
+    <PcapSdkHome>E:\UDPLibs\WpdPack</PcapSdkHome>
+    <PThreadWin32Home>E:\UDPLibs\pthreads-w32-2-9-1-release</PThreadWin32Home>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup />
+  <ItemGroup />
+</Project>

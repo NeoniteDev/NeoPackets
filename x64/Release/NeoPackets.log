@@ -1,0 +1,66 @@
+﻿E:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+E:\UDPLibs\pcapplusplus-20.08-windows-vs2019\header\TLVData.h(35,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\UDPLibs\pcapplusplus-20.08-windows-vs2019\header\TLVData.h(35,25): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\source\repos\NeoPackets\NeoPackets\main.cpp(40,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  1 of 2639 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Common++.lib(IpAddress.obj) : warning LNK4099: PDB 'Common++.pdb' was not found with 'Common++.lib(IpAddress.obj)' or at 'E:\source\repos\NeoPackets\bin\Common++.pdb'; linking object as if no debug info
+Common++.lib(Logger.obj) : warning LNK4099: PDB 'Common++.pdb' was not found with 'Common++.lib(Logger.obj)' or at 'E:\source\repos\NeoPackets\bin\Common++.pdb'; linking object as if no debug info
+Packet++.lib(Packet.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(Packet.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(RawPacket.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(RawPacket.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(EthLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(EthLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(IPv6Layer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(IPv6Layer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(EthDot3Layer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(EthDot3Layer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(NullLoopbackLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(NullLoopbackLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(PayloadLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(PayloadLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(Layer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(Layer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(SllLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(SllLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(PacketTrailerLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(PacketTrailerLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(IPv4Layer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(IPv4Layer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(PPPoELayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(PPPoELayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(MplsLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(MplsLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(VlanLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(VlanLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(ArpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(ArpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(GreLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(GreLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(UdpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(UdpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(IPv6Extensions.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(IPv6Extensions.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(TcpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(TcpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(IgmpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(IgmpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(TLVData.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(TLVData.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(IcmpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(IcmpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(SipLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(SipLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(VxlanLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(VxlanLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(RadiusLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(RadiusLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(DhcpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(DhcpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(DnsLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(DnsLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(GtpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(GtpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(BgpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(BgpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(HttpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(HttpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(SSLLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(SSLLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(TextBasedProtocol.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(TextBasedProtocol.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(SdpLayer.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(SdpLayer.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(DnsResource.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(DnsResource.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(SSLHandshake.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(SSLHandshake.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Packet++.lib(DnsResourceData.obj) : warning LNK4099: PDB 'Packet++.pdb' was not found with 'Packet++.lib(DnsResourceData.obj)' or at 'E:\source\repos\NeoPackets\bin\Packet++.pdb'; linking object as if no debug info
+Pcap++.lib(PcapFileDevice.obj) : warning LNK4099: PDB 'Pcap++.pdb' was not found with 'Pcap++.lib(PcapFileDevice.obj)' or at 'E:\source\repos\NeoPackets\bin\Pcap++.pdb'; linking object as if no debug info
+Pcap++.lib(PcapDevice.obj) : warning LNK4099: PDB 'Pcap++.pdb' was not found with 'Pcap++.lib(PcapDevice.obj)' or at 'E:\source\repos\NeoPackets\bin\Pcap++.pdb'; linking object as if no debug info
+Pcap++.lib(light_pcapng_ext.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_pcapng_ext.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Pcap++.lib(PcapFilter.obj) : warning LNK4099: PDB 'Pcap++.pdb' was not found with 'Pcap++.lib(PcapFilter.obj)' or at 'E:\source\repos\NeoPackets\bin\Pcap++.pdb'; linking object as if no debug info
+Pcap++.lib(light_pcapng.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_pcapng.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Pcap++.lib(light_platform.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_platform.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Pcap++.lib(light_alloc.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_alloc.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Pcap++.lib(light_manipulate.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_manipulate.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Pcap++.lib(light_option.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_option.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Pcap++.lib(light_internal.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_internal.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Pcap++.lib(light_compression.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_compression.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Pcap++.lib(light_null_compression.obj) : warning LNK4099: PDB 'LightPcapNg.pdb' was not found with 'Pcap++.lib(light_null_compression.obj)' or at 'E:\source\repos\NeoPackets\bin\LightPcapNg.pdb'; linking object as if no debug info
+Common++.lib(SystemUtils.obj) : warning LNK4099: PDB 'Common++.pdb' was not found with 'Common++.lib(SystemUtils.obj)' or at 'E:\source\repos\NeoPackets\bin\Common++.pdb'; linking object as if no debug info
+Common++.lib(MacAddress.obj) : warning LNK4099: PDB 'Common++.pdb' was not found with 'Common++.lib(MacAddress.obj)' or at 'E:\source\repos\NeoPackets\bin\Common++.pdb'; linking object as if no debug info
+Common++.lib(GeneralUtils.obj) : warning LNK4099: PDB 'Common++.pdb' was not found with 'Common++.lib(GeneralUtils.obj)' or at 'E:\source\repos\NeoPackets\bin\Common++.pdb'; linking object as if no debug info
+Common++.lib(IpUtils.obj) : warning LNK4099: PDB 'Common++.pdb' was not found with 'Common++.lib(IpUtils.obj)' or at 'E:\source\repos\NeoPackets\bin\Common++.pdb'; linking object as if no debug info
+  NeoPackets.vcxproj -> E:\source\repos\NeoPackets\NeoPackets\..\bin\NeoPackets.exe
